@@ -1,0 +1,9 @@
+
+public class Cat {
+
+	public String name = "Garfield";
+
+	public String toString() {
+		return name;
+	}
+}
